@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mat_mul_", "Mat_mul_.vcxproj", "{F0F52D60-12B4-4961-AEE8-50BB88D23466}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0F52D60-12B4-4961-AEE8-50BB88D23466}.Debug|x64.ActiveCfg = Debug|x64
+		{F0F52D60-12B4-4961-AEE8-50BB88D23466}.Debug|x64.Build.0 = Debug|x64
+		{F0F52D60-12B4-4961-AEE8-50BB88D23466}.Release|x64.ActiveCfg = Release|x64
+		{F0F52D60-12B4-4961-AEE8-50BB88D23466}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A9329A7-42E5-4914-9336-BF3E55652541}
+	EndGlobalSection
+EndGlobal
